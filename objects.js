@@ -1,0 +1,2 @@
+
+var playlist = {artist:song};
